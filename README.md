@@ -1,2 +1,2 @@
-# -dev1dersi
+# odev1dersi
 html ödevi
